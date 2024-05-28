@@ -1,7 +1,7 @@
 const axios = require("axios");
 module.exports = {
   config: {
-    name: "",
+    name: "osu",
     aliases: ["OSU!"],
     version: "1.0",
     author: "Shen",
